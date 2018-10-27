@@ -1,0 +1,31 @@
+.contenedor{
+    display: flex;
+   /* justify-content: space-between;
+    align-items: stretch;*/
+    flex-wrap: wrap;
+}
+body{
+    height: 100vh;
+    
+}
+.flex-item {
+   /* background: green;
+    padding: 30px;*/
+    
+}
+header{
+    width: 100%;
+    background: rgb(171, 111, 228);
+}
+main{
+    width: 70%;
+    background: brown;
+}
+aside{
+    width: 30%;
+    background: burlywood;
+}
+footer{
+    width: 100%;
+    background: fuchsia;
+}

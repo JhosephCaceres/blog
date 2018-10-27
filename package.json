@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "peliculas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "jose_C",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
